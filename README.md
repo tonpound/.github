@@ -1,0 +1,6 @@
+Tonpound, a decentralized lending protocol that connects The Open Network and Ethereum blockchain. The document contains a broad but concise overview of all components of Tonpound. For articles giving more in-depth details, please read our Medium blog. 
+
+The main advantage of Tonpound is the ability to use wrapped versions of Toncoin (TON) as collateral to borrow funds. This feature allows traders to keep their TON position while earning passive income both from node fees and Supply lending interest. In addition, lenders receive an opportunity to borrow other assets available on Tonpound Markets. Potentially, this targets substantial amounts of liquidity worth billions of dollars both on TON and Ethereum blockchains.
+
+Tonpound is governed by its Decentralized Autonomous Organization (DAO), whose membership is based on holding a governance NFT (gNFT). The members of Tonpound DAO can vote on protocol development and receive benefits such as share in protocol income. For an overview of Tonpound DAO. 
+Tonpound Participation Index (TPI) is an ERC-20 token that must be burned to obtain a fully functional gNFT. No pre-sale of TPI or gNFTs will take place, however, a large part of TPI’s supply will be distributed as airdrop to the most active users and first liquidity providers to Tonpound Markets.
